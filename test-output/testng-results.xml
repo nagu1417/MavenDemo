@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38206" started-at="2018-11-16T01:53:18Z" finished-at="2018-11-16T01:53:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38206" started-at="2018-11-16T01:53:18Z" finished-at="2018-11-16T01:53:56Z">
+      <class name="package2.Testng9">
+        <test-method status="PASS" signature="f4()[pri:0, instance:package2.Testng9@3e6fa38a]" name="f4" duration-ms="1" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method status="PASS" signature="f5()[pri:0, instance:package2.Testng9@3e6fa38a]" name="f5" duration-ms="3" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f5 -->
+        <test-method status="PASS" signature="f6()[pri:0, instance:package2.Testng9@3e6fa38a]" name="f6" duration-ms="1" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f6 -->
+        <test-method status="PASS" signature="f7()[pri:0, instance:package2.Testng9@3e6fa38a]" name="f7" duration-ms="3" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f7 -->
+        <test-method status="PASS" signature="f8()[pri:0, instance:package2.Testng9@3e6fa38a]" name="f8" duration-ms="1" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f8 -->
+        <test-method status="PASS" signature="f9()[pri:0, instance:package2.Testng9@3e6fa38a]" name="f9" duration-ms="1" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f9 -->
+      </class> <!-- package2.Testng9 -->
+      <class name="package2.Testng3">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:package2.Testng3@47c62251]" name="beforeTest" is-config="true" duration-ms="19029" started-at="2018-11-16T01:53:18Z" finished-at="2018-11-16T01:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:package2.Testng9@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-11-16T01:53:37Z" finished-at="2018-11-16T01:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f10()[pri:0, instance:package2.Testng3@47c62251]" name="f10" duration-ms="8591" started-at="2018-11-16T01:53:37Z" finished-at="2018-11-16T01:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f10 -->
+        <test-method status="PASS" signature="f8()[pri:0, instance:package2.Testng3@47c62251]" name="f8" duration-ms="10451" started-at="2018-11-16T01:53:46Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f8 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:package2.Testng3@47c62251]" name="afterTest" is-config="true" duration-ms="73" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:package2.Testng9@3e6fa38a]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-11-16T01:53:56Z" finished-at="2018-11-16T01:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- package2.Testng3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
