@@ -22,5 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="F:/Selenium downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -1,0 +1,12 @@
+2018-11-28 07:08:13,049 [main] INFO org.apache.log4j.Logger - URL has been Opened
+2018-11-28 07:08:16,098 [main] INFO org.apache.log4j.Logger - Drag Element has been identifed
+2018-11-28 07:08:16,117 [main] INFO org.apache.log4j.Logger - Drop Element has been identifed
+2018-11-28 07:08:16,331 [main] INFO org.apache.log4j.Logger - Element has been Dropped
+2018-12-07 17:10:40,813 [main] INFO org.apache.log4j.Logger - URL has been Opened
+2018-12-07 17:10:43,906 [main] INFO org.apache.log4j.Logger - Drag Element has been identifed
+2018-12-07 17:10:43,925 [main] INFO org.apache.log4j.Logger - Drop Element has been identifed
+2018-12-07 17:10:44,196 [main] INFO org.apache.log4j.Logger - Element has been Dropped
+2018-12-07 17:16:42,404 [main] INFO org.apache.log4j.Logger - URL has been Opened
+2018-12-07 17:16:45,488 [main] INFO org.apache.log4j.Logger - Drag Element has been identifed
+2018-12-07 17:16:45,508 [main] INFO org.apache.log4j.Logger - Drop Element has been identifed
+2018-12-07 17:16:45,656 [main] INFO org.apache.log4j.Logger - Element has been Dropped

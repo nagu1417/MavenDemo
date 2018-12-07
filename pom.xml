@@ -11,7 +11,7 @@
   <url>http://maven.apache.org</url>
 
 <properties>
-<suiteXmlFile>testng.xml</suiteXmlFile>
+<suiteXmlFile>F:\Selenium Workspace\TestingMaven\testng.xml</suiteXmlFile>
 </properties>
 
 
@@ -35,6 +35,28 @@
     <groupId>org.apache.poi</groupId>
     <artifactId>poi</artifactId>
     <version>3.17</version>
+</dependency>
+<dependency>
+    <groupId>log4j</groupId>
+    <artifactId>log4j</artifactId>
+    <version>1.2.17</version>
+</dependency>
+<dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.2</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>4.0.0</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.xmlbeans</groupId>
+    <artifactId>xmlbeans</artifactId>
+    <version>2.6.0</version>
 </dependency>
     
 </dependencies>
